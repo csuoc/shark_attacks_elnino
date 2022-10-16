@@ -244,7 +244,7 @@ Oct,2015,Unprovoked,USA,"Malaka, Oahu",Body boarding,M,10,"Lacerations & punctur
 Oct,2015,Unprovoked,SOUTH AFRICA,Stil Bay,Surfing,M,42,"Lacerations to right calf, knee & hip",N,15h00,White shark
 Oct,2015,Unprovoked,USA,"Playalinda Beach, Brevard County",Surfing,M,21,Lacerations to left hand,N,14h30,
 Oct,2015,Unprovoked,USA,"Deerfield Beach, Broward County",Surfing,M,21,Left foot bitten,N,13h50,Spinner shark
-Oct,2015,Invalid,USA,"Waikiki, ",Surfing,M,32,Left foot bitten by eel,,19h20,No shark
+Oct,2015,Invalid,USA,"Waikiki, ",Surfing,M,32,Left foot bitten by eel,,19h20,
 Oct,2015,Unprovoked,USA,"Lanikai Beach, Kailua, Oahu",Swimming,M,44,Severe injuries to lower legs. Foot later surgically amputated.,N,11h30,Tiger shark
 Oct,2015,Boating,USA,"Off Leffingwell Landing, San Luis Obispo County",Kayak Fishing,M,,"No injury, shark rammed kayak repeatedly",N,11h00,
 Oct,2015,Unprovoked,USA,"Shipyard Beach Club, Hilton Head Island, Beaufort County",Boogie boarding,F,9,Laceration to forearm,N,16h20,
@@ -319,7 +319,7 @@ Jun,2015,Unprovoked,AUSTRALIA,"Belongil Beach, Byron Bay",Surf skiing ,M,71,"No 
 Apr,2015,Unprovoked,USA,"Florida Keys, Monroe County",Photographing the shark,M,48,Lacerations to shoulder and left bicep,N,,Blue shark
 Apr,2015,Unprovoked,REUNION,Cap Homard,Surfing,M,13,FATAL,Y,09h00,Bull shark
 Apr,2015,Unprovoked,USA,"3 miles off Jupiter, Palm Beach County",Spearfishing,M,70,Injuries to head & torso,N,Afternoon,Bull shark
-Mar,2015,Invalid,BRAZIL,"Praia del Chifre, Olinda",Surfing,M,23,Injury to left thigh from unidentified species of fish; injuries inconsistent with shark bite,,11h00,No shark
+Mar,2015,Invalid,BRAZIL,"Praia del Chifre, Olinda",Surfing,M,23,Injury to left thigh from unidentified species of fish; injuries inconsistent with shark bite,,11h00,
 Mar,2015,Boating,SOUTH AFRICA,Yellow Sands Point,Kayak Fishing,M,36,No injury but kayak bitten,N,,White shark
 Mar,2015,Unprovoked,EGYPT,Marsa Alam,Swimming,M,52,FATAL,Y,,Mako shark
 Mar,2015,Unprovoked,USA,Hapuna Beach,Standing / Snorkeling,M,58,Lacerations to left forearm. Lacerations to left hand and thigh,N,11h45,Tiger shark
@@ -597,7 +597,7 @@ Oct,2011,Unprovoked,USA,"Newport, Lincoln County",Surfing,M,41,"No injury, shark
 Oct,2011,Unprovoked,AUSTRALIA,Elwood Beach,Diving,M,50,Small bruise to calf,N,16h00,Jackson shark
 Oct,2011,Unprovoked,AUSTRALIA,Cottesloe Beach,Swimming,M,64,FATAL,Y,08h10,
 Oct,2011,Boating,REUNION,Cap La Houssaye,Canoeing,M,51,No injury to occupant,N,10h30,
-Sep,2011,Invalid,USA,Hatillo Beach,Surfing,M,27,Lacerations to lower right leg ,,09h50,No shark
+Sep,2011,Invalid,USA,Hatillo Beach,Surfing,M,27,Lacerations to lower right leg ,,09h50,
 Sep,2011,Unprovoked,SOUTH AFRICA,Clovely Beach,Swimming,M,43,"Right leg severed, left leg lacerated",N,12h25,White shark
 Sep,2011,Unprovoked,USA,"Santa Maria Island, Manatee County",Spearfishing,M,21,Laceration to left thigh,N,15h00,Bull shark
 Sep,2011,Unprovoked,USA,"North Myrtle Beach, Horry County",Jumping in the waves,M,5,Laceration to left thigh,N,10h00,
@@ -710,8 +710,8 @@ Jun,2010,Unprovoked,VIETNAM,Quy Nhon ,Swimming,M,17,Laceration to left foot,N,17
 Jun,2010,Unprovoked,USA,Jacksonville,Boogie Boarding,F,18,Lacerations to left calf and foot,N,12h30,
 Jun,2010,Unprovoked,AUSTRALIA,"Conspicuous Beach, near Walpole",Surfing,M,40,Severe laceration to right knee,N,12h00,
 May,2010,Provoked,USA,Off Tarpon Springs,Fishing,M,49,Laceration to left calf by hooked shark PROVOKED INCIDENT,N,08h45,Lemon shark
-May,2010,Unprovoked,VIETNAM,Quy Nhon ,Rescuing,F,58,Minor laceration to leg,N,18h00,Kg shark
-May,2010,Unprovoked,VIETNAM,Quy Nhon ,Swimming,F,60,Severe lacerations to left foot,N,18h00,Kg shark
+May,2010,Unprovoked,VIETNAM,Quy Nhon ,Rescuing,F,58,Minor laceration to leg,N,18h00,
+May,2010,Unprovoked,VIETNAM,Quy Nhon ,Swimming,F,60,Severe lacerations to left foot,N,18h00,
 May,2010,Unprovoked,MADAGASCAR," Ambatolaoka, Nosy Be Island",Scuba diving,M,59,Lacerations to arm & chest,N,09h30,
 May,2010,Unprovoked,USA,New Smyrna Beach,Wading,F,10,Minor puncture wounds to right ankle,N,10h30,
 Apr,2010,Provoked,USA,Hanalei Bay,Measuring sharks,M,29,Arm bitten PROVOKED INCIDENT ,N,Afternoon,Lemon shark
@@ -778,7 +778,7 @@ Jul,2009,Provoked,USA,"Biscayne National Park, Miami",Swimming,F,43,Thigh injure
 Jun,2009,Unprovoked,AUSTRALIA,"Seven Mile Beach, Gerroa",Surfing,M,52,2-inch laceration to upper left arm,N,08h45,Whale shark
 Jun,2009,Invalid,USA,"Melbourne Beach, Brevard County",Crawling,M,14,2-inch laceration to upper left arm,,17h30,
 Jun,2009,Unprovoked,EGYPT,Habili Gafar,Snorkeling,F,50,FATAL,Y,Morning,Whitetip shark
-May,2009,Provoked,TAIWAN,Onboard the fishing vessel Chin Sheng Fa 13  ,Fishing,M,46,Lacerations to knee & left lower leg by electrocuted captive shark PROVOKED INCIDENT,N,20h30,Kg shark
+May,2009,Provoked,TAIWAN,Onboard the fishing vessel Chin Sheng Fa 13  ,Fishing,M,46,Lacerations to knee & left lower leg by electrocuted captive shark PROVOKED INCIDENT,N,20h30,
 May,2009,Provoked,USA,"Clearwater Beach, Pinellas County",Swimming,M,,Right foot bitten,N,20h30,
 May,2009,Unprovoked,USA,"New Smyrna Beach, Volusia County",Surfing,M,31,Lacerations to left leg & foot,N,09h35,Spinner shark
 May,2009,Unprovoked,USA,"New Smyrna Beach, Volusia County",Surfing,M,49,Lacerations to right foot,N,10h27,Spinner shark
@@ -878,7 +878,7 @@ Apr,2008,Unprovoked,NEW CALEDONIA,Poindimié,Swimming,M,32,Lacerations to left f
 Apr,2008,Provoked,USA,"New Smyrna Beach, Volusia County",Surfing,M,21,Puncture wounds to right foot                  PROVOKED INCIDENT,N,09h50,
 Apr,2008,Unprovoked,USA,"Solana Beach, San Diego County",Swimming,M,66,FATAL,Y,07h00,White shark
 Apr,2008,Unprovoked,USA,"New Smyrna Beach, Volusia County",Surfing,M,14,Cuts & punctures to right foot,N,08h45,
-Apr,2008,Invalid,MEXICO,"Delfines Beach, Cancun",Swimming,M,32,Probable drowning with post-mortem bites,,Evening,As shark
+Apr,2008,Invalid,MEXICO,"Delfines Beach, Cancun",Swimming,M,32,Probable drowning with post-mortem bites,,Evening,But shark
 Apr,2008,Invalid,AUSTRALIA,"Duranbah, Greenmount Beach",Surfing,M,19,2 puncture wounds to leg,,11h00,
 Apr,2008,Unprovoked,USA,"Playalinda Beach, Canaveral National Seashore, Brevard County",Surfing,M,30,Puncture wounds to right foot,N,15h00,
 Mar,2008,Unprovoked,USA,"Palm Beach Shores, Palm Beach County",Wading,M,15,Shin bitten,N,,
@@ -994,7 +994,7 @@ Oct,2006,Unprovoked,USA,"New Smyrna Beach, Volusia County",Playing soccer in the
 Sep,2006,Unprovoked,USA,Onslow Beach,Surfing,M,16,Laceration to left thigh,N,Morning,
 Sep,2006,Unprovoked,USA,"Singer Island, Riviera Beach",Swimming,M,55,Minor injury to left hand,N,14h00,Spinner shark
 Sep,2006,Unprovoked,USA,"New Smyrna Beach, Volusia County",Surfing,M,52,Left torso grazed,N,,
-Sep,2006,Invalid,AUSTRALIA,Great Barrier Reef  ,Diving,M,44,"Killed by a stingray, not a shark - a tragedy for his family and marine wildlife",,11h00,No shark
+Sep,2006,Invalid,AUSTRALIA,Great Barrier Reef  ,Diving,M,44,"Killed by a stingray, not a shark - a tragedy for his family and marine wildlife",,11h00,
 Sep,2006,Unprovoked,USA,"New Smyrna Beach, Volusia County",Standing,M,33,Puncture wounds and cuts to right thigh,N,17h30,
 Sep,2006,Unprovoked,USA,"New Smyrna Beach, Volusia County",Swimming,M,12 or 13,Arm bitten,N,17h55,
 Sep,2006,Unprovoked,SOUTH AFRICA,Noordhoek,Surfing,M,37,"No injury, shark rammed surfboard",N,,White shark
@@ -1080,7 +1080,7 @@ Sep,2005,Unprovoked,AUSTRALIA,"Park Beach, Coff's Harbour",Standing,M,15,Left fo
 Sep,2005,Unprovoked,USA,"North Topsail Beach, Onslow County",Wading,F,18,Calf severely lacerated,N,15h20,Bull shark
 Sep,2005,Unprovoked,AUSTRALIA,"Fishery Bay, Eyre Peninsula",Surfing,M,40,Lacerations to right arm & thigh,N,15h00,White shark
 Sep,2005,Unprovoked,USA,"Ponce Inlet, Volusia County",Standing / Surfing,M,62,Right foot bitten,N,11h10,
-Sep,2005,Provoked,THAILAND,On deck of fishing trawler 100 nautical miles offshore,Removing shark from net,M,21,FATAL PROVOKED INCIDENT,Y,,Kg shark
+Sep,2005,Provoked,THAILAND,On deck of fishing trawler 100 nautical miles offshore,Removing shark from net,M,21,FATAL PROVOKED INCIDENT,Y,,
 Aug,2005,Unprovoked,AUSTRALIA,Glenelg ,Scuba diving,M,23,FATAL,Y,16h10,White shark
 Aug,2005,Unprovoked,USA,"Scripps, LaJolla, San Diego County",Surfing,M,37,Lower right leg lacerated,N,11h00,White shark
 Aug,2005,Invalid,USA,"6th Avenue North, Myrtle Beach, Horry County","Boogie boarding, kicked at object in the water",M,17,"Laceration to knee, possibly by a  small blacktip shark",,Afternoon,
@@ -1488,7 +1488,7 @@ May,1999,Unprovoked,BRAZIL,"Boa Viagem Beach, Recife",Surfing,M,21,Leg & hands b
 Apr,1999,Unprovoked,MAURITIUS,Pointe aux Canonniers,Swimming,F,41,Thigh bitten,N,06h00,Reef shark
 Apr,1999,Unprovoked,REUNION,Roche-aux-Oiseaux,Swimming after being swept into sea by a large wave,M,52,FATAL,Y,10h30,Bull shark
 Mar,1999,Unprovoked,USA,"Olowalu side of Lahina, Maui ","Swimming, towing a kayak",F,29,"FATAL, arm bitten ",Y,20h30,
-Mar,1999,Unprovoked,NEW CALEDONIA,Ouvea,Spearfishing,M,,Multiple injuries,N,Morning,Kg shark
+Mar,1999,Unprovoked,NEW CALEDONIA,Ouvea,Spearfishing,M,,Multiple injuries,N,Morning,
 Mar,1999,Unprovoked,USA,"Quarter mile offshore in Kaanapali, West Maui",Swimming near pod of whales,F,29,Tissue removed knee to thigh,N,10h45,
 Feb,1999,Unprovoked,AUSTRALIA,Scotts Head,Surfing,M,35,"Left hand & forearm bitten, board bitten",N,Evening,Tiger shark
 Feb,1999,Unprovoked,USA,"Hobe Sound, Martin County",Surfing,M,25,Left hand bitten,N,15h30,Spinner shark
@@ -1796,7 +1796,7 @@ Oct,1989,Unprovoked,AUSTRALIA,Shelly Point ,Surfing,M,17,"No injury, board bitte
 Oct,1989,Unprovoked,USA,Surfside Beach,Surfing,M,12,Foot & leg bitten,N,Evening,
 Oct,1989,Invalid,USA,"Between Wrightsville Beach & Carolina Beach, New Hanover County",Diving,M,49,FATAL,,Late afternoon,
 Sep,1989,Unprovoked,SOUTH AFRICA,"Smitswinkel, False Bay",Free diving,M,29,Chest lacerated,N,14h30,White shark
-Sep,1989,Provoked,USA,"Gulf of Mexico, 22 miles from Pensacola","Fishing, stepped on hooked shark's head",M,51,Bitten by hooked shark PROVOKED INCIDENT,N,Afternoon,Lb shark
+Sep,1989,Provoked,USA,"Gulf of Mexico, 22 miles from Pensacola","Fishing, stepped on hooked shark's head",M,51,Bitten by hooked shark PROVOKED INCIDENT,N,Afternoon,
 Sep,1989,Unprovoked,USA,"Southeast Farallon Island, Farallon Islands",Hookah diving for abalone (descending),M,38,Leg bitten,N,12h30,White shark
 Sep,1989,Unprovoked,USA,"Salvo, Dare County",Surfing,M,31,Non-fatal,N,,Sandbar shark
 Sep,1989,Provoked,USA,24 km off Santa Catalina Island in the Channel Islands,Filming 5' blue shark,M,46,Hand  & both arms bitten   PROVOKED INCIDENT,N,,
@@ -1963,7 +1963,7 @@ Sep,1982,Unprovoked,SOUTH AFRICA,"Nahoon, East London",Surfing,M,16,"No Injury, 
 Sep,1982,Unprovoked,USA,"Patrick Air Force Base, Brevard County",Surfing,M,20,Laceration to lower left leg,N,13h30,
 Sep,1982,Unprovoked,USA,"Monastery Beach, Carmel Bay, Monterey County",Diving,M,36,Lacerations to hand,N,Morning,White shark
 Sep,1982,Unprovoked,USA,"Bear Harbor, Mendocino County",Free diving for abalone from Zodiac (submerged),M,28,Upper left thigh & buttocks bitten,N,14h30,White shark
-Aug,1982,Invalid,USA,"Morro Rock, Morro Bay, San Obispo County",Surfing,M,17,"No Injury, board bitten",,10h20,As shark
+Aug,1982,Invalid,USA,"Morro Rock, Morro Bay, San Obispo County",Surfing,M,17,"No Injury, board bitten",,10h20,
 Aug,1982,Unprovoked,SOUTH AFRICA,Langebaan,Swimming,F,18,"Left knee, lower leg & foot bitten",N,12h00,
 Jul,1982,Invalid,SOUTH AFRICA,Amanzimtoti,Boogie boarding,M,20,"No injury, swim fin bitten",,16h00,
 Jul,1982,Unprovoked,SOUTH AFRICA,"Nahoon, East London",Paddleskiing,M,38,"No injury, ski bitten",N,16h00,White shark
@@ -2255,7 +2255,7 @@ Dec,1965,Unprovoked,AUSTRALIA,"Bathurst Reef, Rottnest Island","Spearfishing, bu
 Nov,1965,Provoked,AUSTRALIA,Near Brisbane,Fishing from 34' boat when pulled overboard by hooked shark,M,43,FATAL PROVOKED INCIDENT,Y,,
 Nov,1965,Unprovoked,PACIFIC OCEAN ,Japanese fishing boat Taihei Maru No.10,"Hauling dead shark aboard, when another shark leapt out of the water & bit him",M,44,"Left forearm bitten, surgically amputated",N,23h30,
 Nov,1965,Unprovoked,AUSTRALIA,Oak Beach,Surfing,M,24,Puncture wounds to right thigh,N,16h30,Nurse shark
-Oct,1965,Unprovoked,BAHAMAS,Nassau,Sunbathing on beach when he saw child being attacked by the shark,M,32,Right arm & right leg bitten,N,,Lb shark
+Oct,1965,Unprovoked,BAHAMAS,Nassau,Sunbathing on beach when he saw child being attacked by the shark,M,32,Right arm & right leg bitten,N,,
 Oct,1965,Unprovoked,NEW BRITAIN,"Outside the reef off Moputu Village, near Talasea","Spearfishing, shot a turtle",M,15,FATAL,Y,,
 Sep,1965,Provoked,PAPUA NEW GUINEA,Moem Village near Wewak,Fishing (rod & line),M,,Leg & hand bitten by shark that had been speared by another fisherman PROVOKED INCIDENT,N,14h00,
 Sep,1965,Unprovoked,MEXICO,Playa Villa del Mar,,M,23,Leg & arm bitten,N,18h00,
@@ -2306,7 +2306,7 @@ Jan,1964,Unprovoked,FIJI,Tuvuca Isalnd,Swimming,F,20,Deep lacerations to her rig
 Jan,1964,Unprovoked,SOUTH AFRICA,Mossel Bay,Diving for sinkers,M,,Lacerations and puncture wounds in right arm ,N,19h00 / 20h00,
 Dec,1963,Unprovoked,SOUTH AFRICA,"Catfish Rock, between Salt Rock & Shakas Rock",Standing,F,20,"Right hand & foot severed, thigh & buttock lacerated",N,14h00,Zambesi shark
 Dec,1963,Unprovoked,SOUTH AFRICA,Umhlanga Rocks,Swimming ,M,24,"Lower leg bitten & foot severed, leg surgically amputated below knee",N,15h00,
-Dec,1963,Unprovoked,AUSTRALIA,"Figtree Ledge, Hervey Bay",Sitting on gunwale of boat,M,,"No injury, shark's tail struck his armpit",N,Dawn,Lb shark
+Dec,1963,Unprovoked,AUSTRALIA,"Figtree Ledge, Hervey Bay",Sitting on gunwale of boat,M,,"No injury, shark's tail struck his armpit",N,Dawn,
 Dec,1963,Unprovoked,SOUTH AFRICA,Gonubie River Mouth,Swimming,M,18,"FATAL, shoulders, arms, abdomen & foot bitten  ",Y,15h45,
 Dec,1963,Provoked,SOUTH AFRICA,"Next to West Street groyne, Durban",Helping friend land hooked shark,M,13,Foot lacerated  PROVOKED INCIDENT,N,18h30,Dusky shark
 Dec,1963,Unprovoked,SOUTH AFRICA,Hartenbos,Spearfishing,M,,Foot lacerated,N,12h00,White shark
@@ -2319,7 +2319,7 @@ Nov,1963,Unprovoked,FIJI,"Dravuwalu, Totoya Island",Fishing,F,21,Elbow bitten,N,
 Nov,1963,Unprovoked,FIJI,Rewa River,Spearing fish,M,25,Ankle & foot bitten,N,14h00,
 Nov,1963,Provoked,USA,"8 miles south of Elliot Key, Miami-Dade County",Testing anti-shark cage,M,,No injury PROVOKED INCIDENT,N,11h40,Silky shark
 Nov,1963,Unprovoked,PALAU,Koror,Fishing,M,35,Left calf lacerated,N,03h00,
-Oct,1963,Unprovoked,USA,"Biltmore Beach, near Panama City","Surf fishing, wading ",M,28,"Right thigh &  foot bruised, right calf  lacerated",N,17h30,Lb shark
+Oct,1963,Unprovoked,USA,"Biltmore Beach, near Panama City","Surf fishing, wading ",M,28,"Right thigh &  foot bruised, right calf  lacerated",N,17h30,
 Sep,1963,Unprovoked,CHILE,"El Panul, 12km south of Coquimbo",Spearfishing / free diving,M,,FATAL,Y,11h00,White shark
 Sep,1963,Unprovoked,SOLOMON ISLANDS,Susukana Plantation,Spearing fish,M,30,"FATAL, right thigh, calf & foot bitten ",Y,13h00,
 Sep,1963,Provoked,AUSTRALIA,Wanda Beach,Surfing,M,18,"A ""dead"" shark grabbed by the tail bit his right torso PROVOKED INCIDENT",N,09h30,
@@ -2421,7 +2421,7 @@ Mar,1961,Unprovoked,NORTH PACIFIC OCEAN,"Leeward side of island, directly in bac
 Mar,1961,Provoked,SOUTH AFRICA,St. Lucia,Fishing,M,44,Landed shark in boat bit his left leg  PROVOKED INCIDENT,N,,Zambesi shark
 Feb,1961,Unprovoked,AUSTRALIA,Mount Martha Beach,Standing,F,,"Ankle bitten by small gummy shark, minor injury",N,18h00,Banjo shark
 Feb,1961,Unprovoked,SOUTH AFRICA,Sea Point,"Spearfishing, shark grabbed his white t-shirt and towed him ",M,27,Torso bruised & abraded ,N,Late afternoon,
-Feb,1961,Unprovoked,SOUTH AFRICA,Nahoon,Swimming,M,14,"FATAL, multiple injuries to both legs, feet & left arm  ",Y,14h50,Kg shark
+Feb,1961,Unprovoked,SOUTH AFRICA,Nahoon,Swimming,M,14,"FATAL, multiple injuries to both legs, feet & left arm  ",Y,14h50,
 Jan,1961,Unprovoked,SOUTH AFRICA,Amanzimtoti,Swimming,M,15,Left thigh bitten ,N,14h20,White shark
 Jan,1961,Provoked,AUSTRALIA,Cook Island,Collecting aquarium specimens,M,27,Right calf  bitten by lassoed shark on deck of surf ski PROVOKED INCIDENT,N,Morning,Wobbegong shark
 Jan,1961,Unprovoked,SOUTH AFRICA,Winkelspruit,Standing,M,13,"Right foot, leg and hand bitten",N,19h35,White shark
@@ -2498,7 +2498,7 @@ Dec,1958,Unprovoked,USA,"Near Twin Islands off Lanikai, O'ahu (east coast)",Surf
 Dec,1958,Unprovoked,AMERICAN SAMOA,Van Camp wharf,Cleaning hull of ship ,M,22,"FATAL, left thigh & hip bitten  ",Y,11h00,Tiger shark
 Nov,1958,Unprovoked,AUSTRALIA,Surfer's Paradise,Swimming,M,21,FATAL,Y,15h15,
 Sep,1958,Unprovoked,ANDAMAN / NICOBAR ISLANDAS,,"""Climbing up to ship after repairing the stern in water""",M,32,"FATAL, leg bitten ",Y,14h00,Blue shark
-Sep,1958,Unprovoked,BAHAMAS,off yacht Serenade,Fishing,M,42,Right forearm lacerated,N,Morning,Lb shark
+Sep,1958,Unprovoked,BAHAMAS,off yacht Serenade,Fishing,M,42,Right forearm lacerated,N,Morning,
 Aug,1958,Unprovoked,CROATIA,Mo?eni?ka Draga,Swimming,F,,Leg injured,N,18h00,
 Jul,1958,Unprovoked,USA,"9 miles north of Turtle Beach, Siesta Key, Sarasota County","Swimming, ducking for shells in water 0.9 m deep",M,12,3 lacerations on leg,N,16h10,Tiger shark
 Jul,1958,Unprovoked,USA,"Longboat Key, Sarasota, Sarasota County","Swimming, ducking for shells in water 0.9 m deep",M,8,"Left hand and  leg bitten, leg surgically amputated below hip",N,16h10,Tiger shark
@@ -2538,7 +2538,7 @@ Aug,1956,Unprovoked,PAPUA NEW GUINEA,"Paga Point or Fishermans Island, Port More
 Aug,1956,Unprovoked,USA,"Pismo Beach, San Luis Obispo County",Swimming near pier,M,10,"Lacerated thigh, hand & shoulder",N,16h30,White shark
 Aug,1956,Unprovoked,SOUTH AFRICA,"Chain Rocks, Amanzimtoti",Free diving for crayfish,M,23,"No injury, right swim fin bitten",N,Afternoon,
 Jul,1956,Provoked,USA,Aquadilla,Floating in inner tube,M,13,FATAL. His brother speared a shark which then attacked Jose & severed his leg at knee. PROVOKED INCIDENT  ,Y,10h30,
-Jul,1956,Provoked,USA,"Van Ness Municipal Pier, San Francisco",Fishing,M,38,Finger bitten by hooked shark PROVOKED INCIDENT,N,,Lb shark
+Jul,1956,Provoked,USA,"Van Ness Municipal Pier, San Francisco",Fishing,M,38,Finger bitten by hooked shark PROVOKED INCIDENT,N,,
 Jul,1956,Unprovoked,MALTA,Marsascala,Swimming,M,40,FATAL,Y,,White shark
 Jul,1956,Unprovoked,USA,"Miami Beach, Miami-Dade County",Wading,F,38,Lacerations to legs,N,18h00,
 Jul,1956,Unprovoked,USA,"Isle of Palms, Charleston County",Swimming,M,7,Arm & leg injured,N,15h00j,
@@ -2576,7 +2576,7 @@ Apr,1953,Unprovoked,USA,South Padre Island,Swimming,F,19,Lacerations to right fo
 Feb,1953,Unprovoked,AUSTRALIA,Cave at Shell Harbour,Spearfishing,M,25,"Shark tore off face mask, divers face, nose & chin lacerated",N,18h00,Wobbegong shark
 Jan,1953,Boating,AUSTRALIA,Wynyard,Fishing,,MAKE LINE GREEN,"No injury to occupant, shark charged boat",N,Afternoon,
 Dec,1952,Unprovoked,AUSTRALIA,Cape Douglas,"Fishing, setting nets",M,25,Bitten on thigh and buttocks,N,"""After dark""",
-Aug,1952,Provoked,ITALY,Riva Trigoso,Fishing,M,17,Bitten by hooked shark                      PROVOKED INCIDENT,N,,Lb shark
+Aug,1952,Provoked,ITALY,Riva Trigoso,Fishing,M,17,Bitten by hooked shark                      PROVOKED INCIDENT,N,,
 Dec,1952,Unprovoked,USA,"Pacific Grove, Monterey Bay, Monterey County",Body surfing & treading water,M,17,"FATAL, leg lacerated  ",Y,14h00,White shark
 Dec,1952,Unprovoked,USA,"Maile Beach, O'ahu",Swimming from fishing boat setting nets,M,40,"FATAL, left arm severed below the elbow ",Y,,
 Aug,1952,Provoked,ITALY,Giulianova,Fishing,,19,Multiple injuries PROVOKED INCIDENT,Y,02h00,
@@ -2605,7 +2605,7 @@ Nov,1950,Unprovoked,AUSTRALIA,"Burleigh Heads, Brisbane",Body surfing,M,21,Part 
 Nov,1950,Boating,AUSTRALIA,Yeppoon,Paddling a canoe,M,18,"No injury to occupants, shark holed canoet",N,,
 Oct,1950,Unprovoked,USA,"Imperial Beach, San Diego County",Body surfing / treading water,M,31,Right leg lacerated,N,12h00,White shark
 Oct,1950,Unprovoked,AUSTRALIA,"Peterson's Beach, Sarina",Fishing,M,25,Lacerations to right thumb and knee,N,Night,
-Aug,1950,Provoked,EL SALVADOR,50 miles off Port La Libertad,Jerked overboard while pole fishing for tuna,M,27,Left thigh bitten by hooked shark PROVOKED INCIDENT,N,08h30,Lb shark
+Aug,1950,Provoked,EL SALVADOR,50 miles off Port La Libertad,Jerked overboard while pole fishing for tuna,M,27,Left thigh bitten by hooked shark PROVOKED INCIDENT,N,08h30,
 Jul,1950,Unprovoked,JAPAN,Ariakeno Bay,Swimming,M,19,FATAL,Y,P.M.,
 Jul,1950,Unprovoked,USA,Near Port Arthur,Swimming,M,11,Laceration to leg,N,,Hammerhead shark
 Jun,1950,Unprovoked,USA,"Beach 103rd Street, Rockaway ",Swimming ,M,16,"Gashes & lacerations on legs, foot lacerated.",N,,Sand shark
@@ -2637,7 +2637,7 @@ Aug,1947,Unprovoked,USA,In a canal 10 miles north of St Augustine,Swimming,M,20,
 Jul,1947,Provoked,USA,"Santa Monica, Los Angeles County",Fishing,M,46,PROVOKED INCIDENT,N,,Small shark
 Jul,1947,Unprovoked,SOUTH AFRICA,"North Beach, Durban",Swimming,M,20,Right thigh lacerated,N,Morning,
 Jun,1947,Unprovoked,USA,"Off Waianae, O'ahu",Fishing,M,35,"Left forearm, arm & leg lacerated",N,10h30,
-Apr,1947,Unprovoked,SOUTH AFRICA,"Country Club Beach, Durban",Treading water,M,21,Ankle & shin lacerated,N,12h00,Kg shark
+Apr,1947,Unprovoked,SOUTH AFRICA,"Country Club Beach, Durban",Treading water,M,21,Ankle & shin lacerated,N,12h00,
 Apr,1947,Unprovoked,SOUTH AFRICA,"Rocket Hut Beach, Durban",Body surfing,M,14,"Thigh severely lacerated, shin & calf lacerated",N,17h30,
 Mar,1947,Unprovoked,SOUTH AFRICA,"Country Club Beach, Durban",Wading,M,18,"Hip abraded, right calf severely lacerated",N,16h10,
 Mar,1947,Unprovoked,SOUTH AFRICA,"Country Club Beach, Durban",Treading water,M,22,Lacerations on buttock  &  right foot ,N,12h00,Blacktip shark
@@ -2701,7 +2701,7 @@ Oct,1937,Unprovoked,AUSTRALIA,"Kirra Beach, Coolangatta",Swimming ,M,18,FATAL,Y,
 Oct,1937,Unprovoked,AUSTRALIA,Byron Bay ,Swimming near jetty,M,16,Tooth imprints on torso,N,,
 Aug,1937,Unprovoked,AUSTRALIA,"Mabuiag Island, between New Guinea & Australia","Diving from the lugger San, operated by the Protector of the Aborigines",M,38,"Head, neck & shoulder bitten (In 1918, he was also bitten by a shark off Cairns)",N,11h00,Tiger shark
 Jun,1937,Unprovoked,USA,Galveston,Swimming,M,14,FATAL,Y,Night,
-May,1937,Unprovoked,AUSTRALIA,"Ross River, Townsville","Refused permission to cross on the ferry, he was swimming across the river",M,33,"FATAL, left arm severed at elbow, right arm bitten, right leg severed at knee    ",Y,Night,Lb shark
+May,1937,Unprovoked,AUSTRALIA,"Ross River, Townsville","Refused permission to cross on the ferry, he was swimming across the river",M,33,"FATAL, left arm severed at elbow, right arm bitten, right leg severed at knee    ",Y,Night,
 Feb,1937,Unprovoked,AUSTRALIA,"Bar Beach, Newcastle",Swimming,M,32,"FATAL, buttocks, ankle & right elbow bitten ",Y,15h20,White shark
 Feb,1937,Provoked,AUSTRALIA,Moreton Island,Fishing,M,20,Left shoulder bitten by netted shark PROVOKED INCIDENT,N,,
 Jan,1937,Provoked,AUSTRALIA,"Lake Conjola, near Milton",Holding shark's tail ,M,18,Bitten on forearm PROVOKED INCIDENT,N,,Nurse shark
