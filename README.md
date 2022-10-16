@@ -1,4 +1,12 @@
+# Sharks attacks dependency on El Niño effect in the American coast
 
-# Shark attack dependency on El Niño effect in the American coast
+### A study of the attacks report during the years 1703-2018
+![](images/ElNino_animated.gif)
 
-![ElNino_map2](../images/ElNino_map2.jpg)
+### 
+##headlines
+```python
+
+```
+
+
