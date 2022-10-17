@@ -1,6 +1,6 @@
 # Shark attacks dependency on El Niño effects on the American and Australian coastlines
 
-### A study of the attacks report during the years 1983-2018
+### A study of the attacks during the years 1703-2018
 ![](images/ElNino_animated.gif)
 
 El Niño is a climate pattern that describes the unusual warming of surface waters in the eastern tropical Pacific Ocean. El Niño is the “warm phase” of a larger phenomenon called the El Niño-Southern Oscillation (ENSO). La Niña, the “cool phase” of ENSO, is a pattern that describes the unusual cooling of the region’s surface waters.
@@ -33,6 +33,10 @@ https://www.kaggle.com/teajay/global-shark-attacks
 
 ## 3. Opening the files
 
+src/ --> Contains the executable python files of the cleaning and visualization process.
+images/ --> All the necessary pictures
+data/ --> Contains an edited version of the original dataframe
+README --> What you are reading right now.
 
 ## 4. Data wrangling and cleaning
 
@@ -66,6 +70,8 @@ The following steps were:
 - Saving the new dataset as a new cleaned dataframe, called "attacks_cleaned.csv".
 
 ## 5. Data visualization and data analysis
+
+You can find the cleaned data in src/Data_visualization.ipynb.
 
 Because we want to compare the number of cases of 2015 with the rest of the years and also other El Niño years, our main columns will be "Month" and "Year". El Niño is a seasonal phenomena, therefore we need to see the differences month by month.
 
@@ -103,7 +109,6 @@ By looking at the plot above, there are higher peaks in 1982, 1988 and 2015 than
 The other side of the coin is to see the total number of cases per month. We could expect more attacks during the summer in North America, therefore more attacks during winter time in South America and Australia. Warmer temperatures let people enjoy the weather and go swimming in the sea, potentially attracting sharks.
 
 ![](images/Total_cases_month.png)
-
 Again, it seems July and August (Summer season) are months were most attacks are reported. However, we must disgregate this data and check to which country corresponds all these attacks. Therefore, we could link the El Niño peaks with the Season and Country.
 
 #### Total cases per country:
@@ -113,8 +118,6 @@ Again, it seems July and August (Summer season) are months were most attacks are
 As expected, USA (1359) and Australia (626) lead the chart with the most shark attacks. They are followed by South Africa (342) and other countries from the Pacific: New Zealand (44) and Papua New Guinea (22). 
 
 At this point, one might think about the South American countries: sadly, there are not many reports, either because there were not reported or either because the database is incomplete.
-
-Nevertheless, this is gonna be the dataset from now on.
 
 ####Total cases per month and country:
 
@@ -130,7 +133,7 @@ By analyzing the previous, current and later years of El Niño it should be poss
 
 ![](images/Total_cases_Elnino_years_usa_aus.png)
 
-###5.2 Discussion of the results. Hypothesis validation
+### 5.2 Discussion of the results. Hypothesis validation
 
 It's important to remember the worst El Niño cases:
 
@@ -152,7 +155,7 @@ A good alternative to evaluate the data is to plot it as a linear graphic.
 
 It is possible to see the peaks in the year 1982 and 2015 in the USA shore, and  in 1983, 1996 and 2015 in the Australian shore. Both coincide with El Niño effect.
 
-##6. 2015: the worst year
+## 6. 2015: the worst year
 
 Spurred by warm water, 2015 set a new record for shark attacks around the world, with 98 incidents, including six human fatalities.
 
@@ -160,17 +163,19 @@ According to the International Shark Attack File, the main drivers for the rise 
 
 ![](images/ElNino_animated2.gif)
 
+Let's take a look at the insights of this year:
+
 ### 6.1 Shark attacks by gender
 
 ![](images/Attack_gender.png)
 
-Males are more killed than Females
+Males were more killed than Females
 
 ### 6.2 Shark fatalities
 
 ![](images/Attack_fatal.png)
 
-The total case of fatalietes were 3.9% between Australia and the USA. This represents a very low percentage from the total amount of cases. In fact, is most probable to get hit by a car than bitten by a shark!
+The total case of fatalietes were 3.9% between Australia and the USA. This represents a very low percentage from the total amount of cases. In fact, it's more probable to get hit by a car than get bitten by a shark!
 
 ### 6.3 Shark attacks by species
 
@@ -188,11 +193,13 @@ The darker the colour, the more quantity.
 
 ![](images/Attack_type.png)
 
+The majority were unprovoked.
+
 ## 7. Conclusions
 
 In this analysis, the effect of El Niño on shark attacks over the last 40 years has been studied.  It has been shown that there is a certain relationship between the dates on which the phenomenon coincides with the increase in attacks on the west coast of the American continent. However, better data acquisition and validation would be needed to prove this hypothesis.
 
-The biggest phenomenon of the century occurred in 2015. Details of these attacks are now available, such as the fact that the male gender is the most affected, although the number of fatalities was very low, less than 4%. The age range most affected is between 0 and 20 years old.
+The biggest phenomenon of the century occurred in 2015. Details of these attacks, for example, are that the male gender is the most affected, although the number of fatalities was very low, less than 4%. The age range most affected is between 0 and 20 years old.
 
 The great white shark is the species that produces the most attacks, followed by the tiger shark and the spinner shark. Most attacks were unprovoked.
 
@@ -209,5 +216,3 @@ The great white shark is the species that produces the most attacks, followed by
 - https://www.kold.com/story/29885876/el-nino-could-be-linked-to-more-shark-attracts/
 - https://www.climate.gov/media/13109
 - https://www.latimes.com/local/lanow/la-me-ln-el-nino-sharks-20150916-story.html
-
-
