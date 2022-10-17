@@ -30,9 +30,7 @@ The following report was extracted from Kaggle, "Global Shark Attacks", by Toby 
 https://www.kaggle.com/teajay/global-shark-attacks
 
 *Note: the original data is not added to this repository
-```python
-#my code here
-```
+
 ## 3. Opening the files
 
 
@@ -100,7 +98,7 @@ The worst recent cases of El Niño were in 1982-83, 1997-83 and 2014-15. This ph
 
 By looking at the plot above, there are higher peaks in 1982, 1988 and 2015 than the corresponding previous year, although some of the peaks might be more clear than the others. This information is very valuable, because it might be a good approximation to validate our hypothesis.
 
-####Total cases per month:
+#### Total cases per month:
 
 The other side of the coin is to see the total number of cases per month. We could expect more attacks during the summer in North America, therefore more attacks during winter time in South America and Australia. Warmer temperatures let people enjoy the weather and go swimming in the sea, potentially attracting sharks.
 
@@ -108,7 +106,7 @@ The other side of the coin is to see the total number of cases per month. We cou
 
 Again, it seems July and August (Summer season) are months were most attacks are reported. However, we must disgregate this data and check to which country corresponds all these attacks. Therefore, we could link the El Niño peaks with the Season and Country.
 
-####Total cases per country:
+#### Total cases per country:
 
 ![](images/Total_cases_country_top.png)
 
