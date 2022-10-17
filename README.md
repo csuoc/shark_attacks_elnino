@@ -1,4 +1,4 @@
-# Shark attacks dependency on El Niño effects at the American and Australian coastlines
+# Shark attacks dependency on El Niño effects on the American and Australian coastlines
 
 ### A study of the attacks report during the years 1703-2018
 ![](images/ElNino_animated.gif)
